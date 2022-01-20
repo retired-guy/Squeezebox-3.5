@@ -3,4 +3,4 @@ Squeezebox client for 3.5" touchscreens
 
 See my Squeezebox repository for installation instructions.
 
-![photo](https://blogger.googleusercontent.com/img/a/AVvXsEhbAuWUXF7H30JWO1UA8wUsHs2wLwMe3DqmjpkMOJNiLkoeDt-U2enxAg-7EEALw52RDMFRve6BzW5Kbu3SccQMLrzatvkYHZKjWpyHydv14xShYjVvNxkeTDt3SeEO_aa-fcnj9sc-nvLI7B8-YV8g0y7eTdmPi-8SelfoFuKV8LDXW7apvJ8z_qUpyw=s4032)
+![photo](https://blogger.googleusercontent.com/img/a/AVvXsEjWlSmA_xWHWOmqSwZDMECVw142AJsRsEC0-XcoWvwEqan5ZcLKvmZ2BmtVeyruSCaBU5p_z4h5bKz5Fv6zEzqP3k-52ZxftbVUT_EF39p6AhhQmoJpvW_HqFhjLlDyOONuZl2URR4-ZcBf9fEHEW3Po50zMXRm0090aBUzCVW4_RvqU1PcU7qTcuab1g=s1024)

@@ -1,5 +1,5 @@
 # Squeezebox-3.5
-Squeezebox client for 3.5" touchscreens
+Squeezebox client for 3.5" touchscreens.  Sized to match the EVOR04-slim spectrum display.  https://www.ebay.com/itm/184796771209
 
 See my Squeezebox repository for installation instructions.
 
